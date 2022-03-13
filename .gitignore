@@ -124,8 +124,9 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+twitter_sentiment_2019-2021(SG).ipynb
+(geo) tweepy.ipynb
 
 # Pyre type checker
 .pyre/
-twitter_sentiment_2019-2021(SG).ipynb
-(geo) tweepy.ipynb
+

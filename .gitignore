@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+twitter_sentiment_2019-2021(SG).ipynb
+(geo) tweepy.ipynb
